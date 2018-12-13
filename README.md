@@ -22,7 +22,7 @@ Presented on 10 May 2018
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
 |1 | Accidentalidad de la ciudad de Madrid | Arturo Aguirre Calvo, Adrián Fernández De La Torre, Adrián Burillo Elmaleh, Ismael Setti Alonso, Arturo Pinar Adán | [GitHub], [Website]|
-|2 | TITLE | AUTHORS | [GitHub], [Website]|
+|2 | Applications of Big Data techniques in particle physics | Julia May, Viviana Sandagorda Guaman, Daniel Pascual Sentíes, Manuel Hernández Nájera-Alesón | [GitHub], [Website]|
 |3 | TITLE | AUTHORS | [GitHub], [Website]|
 |4 | TITLE | AUTHORS | [GitHub], [Website]|
 |5 | TITLE | AUTHORS | [GitHub], [Website]|
